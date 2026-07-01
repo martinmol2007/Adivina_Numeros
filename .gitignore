@@ -1,5 +1,4 @@
 # Se ignoraran los siguientes tipos de archivos:
-
 *.exe
 *.inp
 *.cor
